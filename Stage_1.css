@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  color: grey;
+  text-align: justify;
+  padding: 2%;
+	font-family: Helvetica;
+	font-size: 1.2em;
+  margin: 0 auto;
+}
+
+a:link {
+  color: #A0D9A9;
+}
+
+h1 {
+	text-align: center;
+	color: #99D7E0;
+}
+
+.toc {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.lesson {
+  text-align: center;
+  border-radius: 20px;
+	color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+}
+
+.info {
+  text-align: left
+}
+
+.lesson-head {
+  color: #99D7E0;
+}
